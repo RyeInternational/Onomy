@@ -5,4 +5,4 @@ This project is presented by the Data Project Team of Rye International which co
 ## Online Education Market Analysis
 We analyzed the composition, number of subscribers, and length of courses offered by platforms such as Coursera, Udemy, and YouTube.
 Coursera and Udemy focus on career education that teaches general business skills. However, they have few courses related to adulting issues like the ones mentioned above. Several YouTubers have videos to introduce investing, insurance, and taxes, but they are too short and lack a structured syllabus.
-See more on our Medium Article:
+See more on our [Medium Article](https://medium.com/@ryeinternational/struggling-to-adulthood-explore-current-online-education-market-42831ef50490)
