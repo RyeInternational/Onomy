@@ -15,4 +15,5 @@ We conducted sentiment analysis and topic modeling to learn about people’s fee
 1.  People need advice on the **usage of credit cards and ways to improve credit scores**. They **worry** about paying back debt.
 2.  Current college students hold **positive** expectations towards adulthood, while recent graduates feel **lost** after getting independent. The cost of schooling and mental health issues in college also **depressed** people.
 3.  **Money and housing** is the focal point of **parental relationships** in adulting. Parents who support their children mentally and financially after they become adults usually maintain a good relationship. The same happens for those young adults who have learned how to plan their lives and future from their parents. However, living with parents as an adult often leads to **battle, guilt, and depression**. 
+
 In general, we hope to understand people's needs and come up with more optimal solutions for their struggling to adulthood.See more on our [Medium Article](https://medium.com/@ryeinternational/struggling-to-adulthood-sentiment-analysis-and-topic-modeling-for-reddit-4f20463ef5da) 
